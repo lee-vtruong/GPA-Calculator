@@ -96,11 +96,11 @@ thead th {
     height: 2px;
     background-color: #fff;
     border-radius: 50%;
-    opacity: 0.3;
+    opacity: 0.5; 
     transition: opacity 0.3s, transform 0.3s;
 }
 
 .star.active {
-    opacity: 1;
-    transition: opacity 0.1s, transform 0.1s;
+    opacity: 1; 
 }
+
