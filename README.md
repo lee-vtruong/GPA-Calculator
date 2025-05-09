@@ -3,7 +3,7 @@
 This project is a sample responsive e-commerce frontend web application for a sneaker shop. It demonstrates various modern web development techniques, including fetching data from an external API, rendering dynamic content, implementing UI components like carousels and accordions, and handling basic user authentication flow with client-side validation.
 
 ## Live Demo:
-[Click here to view the live demo](https://shoes-sells-project.vercel.app/) {/* Replace with your actual live demo URL */}
+[Click here to view the live demo](https://shoes-sells-project.vercel.app/) 
 
 ## Table of Contents
 
